@@ -1,4 +1,4 @@
-![pratamadikzz](img/github-header-image.png)
+![Andhika Pratama](Img/github-header-image.png)
 ##### Hello World! I'm Andhika Pratama 👋
 
 ##### 🌐 Socials:
