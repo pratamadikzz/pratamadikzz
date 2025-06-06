@@ -1,5 +1,5 @@
 ![Andhika Pratama](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-##### Hello World! I'm Andhika Pratama 👋
+#### Hello World! I'm Andhika Pratama 👋
 
 ##### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__dhkprtma?igsh=MXZ2YXQzeXdvNGx4OQ==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@casis_trna?_t=ZS-8wwifCLrDtP&_r=1) 
